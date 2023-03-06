@@ -3,6 +3,7 @@
 - [Aryan Karayi] (https://github.com/aryankarayi)
 - [Ankitjt] (https://github.com/ankitjt)
   [Matheus]
+  [Rocky]
   [Oscar Juarez] (https://github.com/OscarJO20)
 - [Ivan] (https://github.com/ivazin)
 - [Raihan Shezan] (https://github.com/RaihanShezan)
